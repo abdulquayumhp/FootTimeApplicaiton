@@ -1,0 +1,23 @@
+.position {
+	position: relative;
+}
+
+.buildingImage {
+	animation: moveRight 15s linear infinite;
+	overflow: hidden;
+}
+.rectangle {
+	background: url("../../assart/Rectangle 5.png");
+	position: absolute;
+	top: 12%;
+	right: 40%;
+	background-size: cover;
+	background-position: center;
+	z-index: 100;
+	border-radius: 10px;
+}
+@keyframes moveRight {
+	100% {
+		transform: translateX(-100px);
+	}
+}
