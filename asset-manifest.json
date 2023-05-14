@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FoodTimeApplicaiton/static/css/main.faaa0b1b.css",
-    "main.js": "/FoodTimeApplicaiton/static/js/main.d21a93b3.js",
-    "static/js/787.3d7be436.chunk.js": "/FoodTimeApplicaiton/static/js/787.3d7be436.chunk.js",
-    "static/media/main.png": "/FoodTimeApplicaiton/static/media/main.db55c1e6efb1f49632ec.png",
-    "static/media/man.png": "/FoodTimeApplicaiton/static/media/man.84885661d7959bae6d6c.png",
-    "static/media/building2.png": "/FoodTimeApplicaiton/static/media/building2.aca16c8912112ee29352.png",
-    "static/media/maintwo.png": "/FoodTimeApplicaiton/static/media/maintwo.2f75051b83bde7f00183.png",
-    "static/media/flower.png": "/FoodTimeApplicaiton/static/media/flower.db96906425a732924cf7.png",
-    "static/media/Rectangle 5.png": "/FoodTimeApplicaiton/static/media/Rectangle 5.b07c104a1981249cb591.png",
-    "static/media/logo.svg": "/FoodTimeApplicaiton/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/FoodTimeApplicaiton/index.html",
-    "main.faaa0b1b.css.map": "/FoodTimeApplicaiton/static/css/main.faaa0b1b.css.map",
-    "main.d21a93b3.js.map": "/FoodTimeApplicaiton/static/js/main.d21a93b3.js.map",
-    "787.3d7be436.chunk.js.map": "/FoodTimeApplicaiton/static/js/787.3d7be436.chunk.js.map"
+    "main.css": "/FootTimeApplicaiton/static/css/main.5af196ab.css",
+    "main.js": "/FootTimeApplicaiton/static/js/main.a2000401.js",
+    "static/js/787.3d7be436.chunk.js": "/FootTimeApplicaiton/static/js/787.3d7be436.chunk.js",
+    "static/media/main.png": "/FootTimeApplicaiton/static/media/main.db55c1e6efb1f49632ec.png",
+    "static/media/man.png": "/FootTimeApplicaiton/static/media/man.84885661d7959bae6d6c.png",
+    "static/media/building2.png": "/FootTimeApplicaiton/static/media/building2.aca16c8912112ee29352.png",
+    "static/media/maintwo.png": "/FootTimeApplicaiton/static/media/maintwo.2f75051b83bde7f00183.png",
+    "static/media/flower.png": "/FootTimeApplicaiton/static/media/flower.db96906425a732924cf7.png",
+    "static/media/Rectangle 5.png": "/FootTimeApplicaiton/static/media/Rectangle 5.b07c104a1981249cb591.png",
+    "static/media/logo.svg": "/FootTimeApplicaiton/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FootTimeApplicaiton/index.html",
+    "main.5af196ab.css.map": "/FootTimeApplicaiton/static/css/main.5af196ab.css.map",
+    "main.a2000401.js.map": "/FootTimeApplicaiton/static/js/main.a2000401.js.map",
+    "787.3d7be436.chunk.js.map": "/FootTimeApplicaiton/static/js/787.3d7be436.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faaa0b1b.css",
-    "static/js/main.d21a93b3.js"
+    "static/css/main.5af196ab.css",
+    "static/js/main.a2000401.js"
   ]
 }
